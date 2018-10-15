@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="question_text">Is Canberra the capital of Australia?</string>
+    <string name="falseButton_text">False</string>
+    <string name="trueButton_text">True</string>
+    <string name="correct_toast_text" >You are right!</string>
+    <string name="incorrect_toast_text" >You are wrong.</string>
+</resources>
